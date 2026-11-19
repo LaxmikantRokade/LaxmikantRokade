@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340" role="img" aria-labelledby="title desc">
+<title id="title">Laxmikant Rokade - Grand Line developer</title><desc id="desc">Original pirate-adventure inspired banner with a ship, sunrise, and straw-hat mascot.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset=".52" stop-color="#142545"/><stop offset="1" stop-color="#071321"/></linearGradient>
+ <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#ffe08a"/><stop offset="1" stop-color="#f08a3c"/></linearGradient>
+ <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff0a8"/><stop offset=".5" stop-color="#ffbf47"/><stop offset="1" stop-color="#d97822"/></linearGradient>
+ <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#1e90ad"/><stop offset="1" stop-color="#081d37"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="340" rx="22" fill="url(#bg)"/>
+<circle cx="1080" cy="122" r="86" fill="url(#sun)" opacity=".9" filter="url(#glow)"/>
+<path d="M0 215 Q190 110 370 205 T740 190 T1120 195 T1400 145 V340 H0Z" fill="#101b36"/>
+<path d="M0 250 Q180 190 360 252 T720 238 T1080 246 T1400 211 V340 H0Z" fill="url(#sea)" opacity=".85"/>
+<g fill="#d7e8ff" opacity=".8"><circle cx="95" cy="58" r="2"/><circle cx="180" cy="98" r="2"/><circle cx="480" cy="48" r="2"/><circle cx="650" cy="92" r="2"/><circle cx="930" cy="48" r="2"/><circle cx="1290" cy="78" r="2"/></g>
+<g fill="none" stroke="#42d6e8" stroke-width="3" opacity=".55"><path d="M0 285 Q90 250 180 284 T360 284 T540 284"/><path d="M820 294 Q910 259 1000 294 T1180 294 T1400 294"/></g>
+<!-- original sailing ship -->
+<g transform="translate(70 105)">
+ <path d="M10 150 Q105 173 220 150 L190 202 Q105 222 37 197Z" fill="#7b442d" stroke="#ffbd63" stroke-width="4"/>
+ <path d="M110 12 V155" stroke="#f3d49b" stroke-width="8"/><path d="M110 25 L32 121 L110 121Z" fill="#fff0d4" stroke="#d8a35b" stroke-width="3"/><path d="M123 45 L188 128 L123 128Z" fill="#f6e7c8" stroke="#d8a35b" stroke-width="3"/>
+ <path d="M104 10 Q145 -5 179 12 L116 25Z" fill="#e44b4b"/><path d="M35 132 H187" stroke="#f3d49b" stroke-width="4"/>
+ <path d="M86 154 Q110 137 134 154" fill="none" stroke="#ffcf70" stroke-width="4"/>
+</g>
+<!-- mascot: generic straw-hat adventurer -->
+<g transform="translate(1080 40)">
+ <path d="M44 103 Q96 31 177 76 Q207 94 218 112 Q136 129 44 103Z" fill="url(#gold)" stroke="#6b3d1a" stroke-width="5"/>
+ <path d="M96 58 Q122 34 153 50 L165 91 L89 93Z" fill="#f1bb4e" stroke="#7b4b22" stroke-width="4"/>
+ <path d="M86 112 Q66 152 81 202 L171 212 Q193 162 171 111Z" fill="#f3c49a" stroke="#8b4d37" stroke-width="4"/>
+ <path d="M70 202 Q122 175 185 206 L215 278 Q134 302 46 273Z" fill="#b83c39" stroke="#6f2928" stroke-width="5"/>
+ <path d="M93 151 Q107 140 118 152 M147 152 Q159 140 171 152" fill="none" stroke="#18243b" stroke-width="5" stroke-linecap="round"/>
+ <path d="M115 181 Q133 193 153 180" fill="none" stroke="#8c423b" stroke-width="4" stroke-linecap="round"/>
+ <path d="M72 97 Q135 83 203 101" fill="none" stroke="#8f511e" stroke-width="8"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="330" y="88" fill="#b7c6e7" font-size="19" letter-spacing="5">LUFFY.EXE  /  DEVELOPER PROFILE</text>
+ <text x="322" y="164" fill="url(#gold)" font-size="67" font-weight="800" letter-spacing="1">LAXMIKANT ROKADE</text>
+ <text x="330" y="207" fill="#f4f7ff" font-size="25" font-weight="600">B.Tech IT Student  •  Full-Stack Developer  •  GenAI Explorer</text>
+ <rect x="326" y="232" width="690" height="48" rx="24" fill="#07101f" stroke="#27d4e8" stroke-width="2"/>
+ <text x="354" y="263" fill="#4be3f0" font-family="monospace" font-size="20">SETTING SAIL ACROSS CODE &amp; INTELLIGENCE</text>
+</g>
+</svg>

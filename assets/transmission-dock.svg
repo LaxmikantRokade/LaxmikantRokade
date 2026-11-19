@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+<title id="title">Transmission dock</title><desc id="desc">A glowing communication panel with six connection ports.</desc>
+<defs><linearGradient id="bg" x2="1"><stop stop-color="#111b31"/><stop offset="1" stop-color="#0b1324"/></linearGradient><linearGradient id="stroke"><stop stop-color="#ffb94a"/><stop offset=".5" stop-color="#3bd6e8"/><stop offset="1" stop-color="#bd82ff"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="146" rx="22" fill="url(#bg)" stroke="url(#stroke)" stroke-width="4"/>
+<text x="34" y="48" fill="#ffcc71" font-family="Arial" font-size="22" font-weight="700">05 / TRANSMISSION DOCK</text>
+<text x="34" y="83" fill="#e5edff" font-family="Arial" font-size="27" font-weight="700">Let's connect and build something useful.</text>
+<text x="34" y="116" fill="#84dce9" font-family="monospace" font-size="15">GITHUB  •  LINKEDIN  •  HACK2SKILL  •  YOUTUBE  •  INSTAGRAM  •  EMAIL</text>
+<g transform="translate(1000 75)" fill="none" stroke="#e8b95b" stroke-width="3"><circle r="39"/><circle r="25"/><path d="M0 -52 V-30 M0 30 V52 M-52 0 H-30 M30 0 H52"/><path d="M-16 -16 L16 16 M16 -16 L-16 16" opacity=".55"/></g>
+</svg>

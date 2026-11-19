@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+<title id="title">CarbonWiseAI</title><desc id="desc">SUSTAINABILITY • AI ECO COACH</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset="1" stop-color="#0c6448"/></linearGradient><linearGradient id="acc"><stop stop-color="#64d98a"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="1000" height="210" rx="20" fill="url(#bg)"/><path d="M0 168 Q220 120 440 168 T880 155 T1200 155 V210 H0Z" fill="#07101f" opacity=".45"/>
+<g opacity=".12" stroke="#d7ecff"><path d="M0 42 H1000 M0 84 H1000 M0 126 H1000 M0 168 H1000 M120 0 V210 M240 0 V210 M360 0 V210 M480 0 V210 M600 0 V210"/></g>
+<text x="50" y="81" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" fill="#ffffff">CarbonWiseAI</text>
+<text x="53" y="119" font-family="monospace" font-size="17" letter-spacing="2" fill="#64d98a">SUSTAINABILITY • AI ECO COACH</text>
+<path d="M52 146 H550" stroke="url(#acc)" stroke-width="3" opacity=".85"/>
+<path d="M780 120 Q825 18 920 32 Q915 126 810 148 Q833 91 889 64 Q824 81 780 120Z" fill="#8df1ab"/><path d="M800 154 Q842 96 901 65" stroke="#e2ffe8" stroke-width="5" fill="none"/><path d="M700 155 H973 M740 133 L740 85 L770 85 L770 155 M936 155 L936 75 L954 75 L954 155" stroke="#c6e7fa" stroke-width="4" fill="none" opacity=".65"/>
+<circle cx="945" cy="35" r="5" fill="#64d98a"/><circle cx="972" cy="62" r="3" fill="#fff" opacity=".6"/>
+</svg>

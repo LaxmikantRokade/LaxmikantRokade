@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+<title id="title">Grand Line footer</title><desc id="desc">Moonlit ocean waves and a small golden straw hat mark.</desc>
+<defs><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#19476a"/><stop offset="1" stop-color="#071421"/></linearGradient><linearGradient id="gold" x2="1"><stop stop-color="#fff0a3"/><stop offset=".5" stop-color="#ffbd4b"/><stop offset="1" stop-color="#cb7828"/></linearGradient></defs>
+<rect width="1200" height="170" rx="18" fill="#091321"/>
+<path d="M0 94 Q90 35 180 94 T360 94 T540 94 T720 94 T900 94 T1080 94 T1260 94 V170 H0Z" fill="url(#sea)"/>
+<path d="M0 118 Q80 72 160 118 T320 118 T480 118 T640 118 T800 118 T960 118 T1120 118 T1280 118" fill="none" stroke="#52cee4" stroke-width="5" opacity=".7"/>
+<path d="M0 141 Q80 99 160 141 T320 141 T480 141 T640 141 T800 141 T960 141 T1120 141 T1280 141" fill="none" stroke="#b4edff" stroke-width="2" opacity=".55"/>
+<g transform="translate(548 15)"><path d="M8 47 Q52 4 104 47 Q56 63 8 47Z" fill="url(#gold)" stroke="#86521f" stroke-width="3"/><path d="M28 34 Q54 15 82 34 L83 48 L27 48Z" fill="#f0bd59" stroke="#86521f" stroke-width="2"/><path d="M24 50 H89" stroke="#d94f43" stroke-width="7"/></g>
+<text x="600" y="94" text-anchor="middle" fill="#ffda84" font-family="Arial" font-size="22" font-weight="700">KEEP BUILDING  •  KEEP EXPLORING  •  KEEP MOVING FORWARD</text>
+<text x="600" y="124" text-anchor="middle" fill="#9ddce8" font-family="monospace" font-size="14" letter-spacing="3">SEE YOU ON THE GRAND LINE</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+<title id="title">StudentAI</title><desc id="desc">DATA SCIENCE • PERFORMANCE ANALYTICS</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset="1" stop-color="#8b4d35"/></linearGradient><linearGradient id="acc"><stop stop-color="#ffca68"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="1000" height="210" rx="20" fill="url(#bg)"/><path d="M0 168 Q220 120 440 168 T880 155 T1200 155 V210 H0Z" fill="#07101f" opacity=".45"/>
+<g opacity=".12" stroke="#d7ecff"><path d="M0 42 H1000 M0 84 H1000 M0 126 H1000 M0 168 H1000 M120 0 V210 M240 0 V210 M360 0 V210 M480 0 V210 M600 0 V210"/></g>
+<text x="50" y="81" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" fill="#ffffff">StudentAI</text>
+<text x="53" y="119" font-family="monospace" font-size="17" letter-spacing="2" fill="#ffca68">DATA SCIENCE • PERFORMANCE ANALYTICS</text>
+<path d="M52 146 H550" stroke="url(#acc)" stroke-width="3" opacity=".85"/>
+<path d="M730 152 V52 M730 152 H975" stroke="#f4e6c9" stroke-width="5" fill="none"/><rect x="765" y="104" width="38" height="48" rx="5" fill="#84d5ff"/><rect x="827" y="78" width="38" height="74" rx="5" fill="#9de1b1"/><rect x="889" y="45" width="38" height="107" rx="5" fill="#ffd26e"/><path d="M757 91 L818 73 L877 51 L942 30" stroke="#fff2cc" stroke-width="4" fill="none"/><circle cx="942" cy="30" r="7" fill="#fff2cc"/>
+<circle cx="945" cy="35" r="5" fill="#ffca68"/><circle cx="972" cy="62" r="3" fill="#fff" opacity=".6"/>
+</svg>

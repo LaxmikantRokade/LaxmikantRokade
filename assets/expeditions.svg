@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Expeditions and learning programs</title><desc id="desc">A Grand Line route board connecting hackathons, learning cohorts and NASA Open Science 101.</desc>
+<defs><linearGradient id="bg" x2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#0a1527"/></linearGradient><linearGradient id="line"><stop stop-color="#ffc35d"/><stop offset=".55" stop-color="#43d8e7"/><stop offset="1" stop-color="#a980ff"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="186" rx="22" fill="url(#bg)" stroke="#38516f" stroke-width="3"/>
+<text x="32" y="40" font-family="Arial" font-size="19" font-weight="700" fill="#ffc96b" letter-spacing="3">04 / EXPEDITIONS &amp; LEARNING</text>
+<path d="M105 98 H1090" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-dasharray="8 10"/>
+<g font-family="Arial" text-anchor="middle">
+ <circle cx="145" cy="98" r="17" fill="#173b56" stroke="#4fd8e7" stroke-width="4"/><text x="145" y="105" font-size="17" fill="#fff">01</text>
+ <circle cx="370" cy="98" r="17" fill="#45331d" stroke="#ffc45b" stroke-width="4"/><text x="370" y="105" font-size="17" fill="#fff">02</text>
+ <circle cx="595" cy="98" r="17" fill="#30234b" stroke="#b18aff" stroke-width="4"/><text x="595" y="105" font-size="17" fill="#fff">03</text>
+ <circle cx="820" cy="98" r="17" fill="#183c3b" stroke="#56d6a0" stroke-width="4"/><text x="820" y="105" font-size="17" fill="#fff">04</text>
+ <circle cx="1045" cy="98" r="17" fill="#18324e" stroke="#68b9ff" stroke-width="4"/><text x="1045" y="105" font-size="17" fill="#fff">05</text>
+ <g fill="#eff5ff" font-size="16" font-weight="700">
+  <text x="145" y="143">BAH 2026</text><text x="370" y="143">Google Cloud</text><text x="595" y="143">PromptWars</text><text x="820" y="143">INDIA RUNS</text><text x="1045" y="143">NASA Open</text>
+ </g>
+ <g fill="#9fb6d7" font-size="12">
+  <text x="145" y="163">ISRO Innovators</text><text x="370" y="163">Gen AI Academy</text><text x="595" y="163">Virtual challenge</text><text x="820" y="163">Data &amp; AI</text><text x="1045" y="163">Science 101</text>
+ </g>
+</g>
+</svg>
